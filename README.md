@@ -1,2 +1,2 @@
 # CSE-360
-For projects in my CSE 360 class
+To test github for my CSE 360 class
