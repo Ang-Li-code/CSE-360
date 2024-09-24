@@ -14,9 +14,9 @@ public class HelloFX extends Application {
     public void start(Stage primaryStage) {
     	System.out.println("ASU Hello World!");
     	System.out.println("It started!");
-        primaryStage.setTitle("Ang Li Hello World Fall 2024");
+        primaryStage.setTitle("In class Github Activity");
         Button btn = new Button();
-        btn.setText("Display: 'Ang says: Hello World!'");
+        btn.setText("Display: 'Ang\'s second commit'");
         btn.setOnAction(new EventHandler<>() {
             public void handle(ActionEvent event) {
                 System.out.println("Ang says: Hello World!");
